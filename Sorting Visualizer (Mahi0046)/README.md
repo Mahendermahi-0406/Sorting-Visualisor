@@ -32,7 +32,7 @@ Available Controls inside Sorting Visualizer:-
 # Samples
 
 - Sample 1 (Insertion Sort)
-
+https://github.com/Mahendermahi-0406/Sorting-Visualisor/blob/main/Sorting%20Visualizer%20(Mahi0046)/samples%20exp/example1.gif
 ![](samples/example1.gif)
 
 
