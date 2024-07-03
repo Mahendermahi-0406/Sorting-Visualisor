@@ -37,6 +37,6 @@ https://github.com/Mahendermahi-0406/Sorting-Visualisor/blob/main/Sorting%20Visu
 
 
 - Sample 2 (Merge Sort)
+https://github.com/Mahendermahi-0406/Sorting-Visualisor/blob/main/Sorting%20Visualizer%20(Mahi0046)/samples%20exp/example2.gif
 ![](samples/example2.gif)
 
-![](samples/example2.gif)
